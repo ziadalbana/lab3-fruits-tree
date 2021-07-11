@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623888182 source:c:\users\ahmed ashraf\git\bst_c-_javascript_scala\mainprojects\c++_project\main.cpp
+	"Fruits.h"
+
+1623884852 c:\users\ahmed ashraf\git\bst_c-_javascript_scala\mainprojects\c++_project\fruits.h
+	<iostream>
+	<bits/stdc++.h>
+
